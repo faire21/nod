@@ -1,0 +1,161 @@
+[{
+    "id":0,
+    "username": "FedericoI",
+    "edad": 22,
+    "password": "Password",
+    "isAdmin": false,
+    "nombre": "Federico",
+    "apellido": "Ibarra",
+    "pesoEnKG":75,
+    "planesPersonales": [{
+        "id": 0,
+        "esPersonal": true,
+        "nombre": "Plan Balanceado del Fede", 
+        "descripcion": "Todo lo que necesito ", 
+        "porciones": [{
+                "id": 0,
+                "nombre": "Verduras",
+                "cantidad": 5
+            },
+            {
+                "id": 1,
+                "nombre": "Cereales",
+                "cantidad": 4
+            },
+            {
+                "id": 2,
+                "nombre": "Leguminosas",
+                "cantidad": 3
+            },
+            {
+                "id": 3,
+                "nombre": "Lacteos",
+                "cantidad": 4
+            },
+            {
+                "id": 4,
+                "nombre": "Grasas",
+                "cantidad": 2
+            },
+            {
+                "id": 5,
+                "nombre": "Frutas",
+                "cantidad": 4
+            },
+            {
+                "id": 6,
+                "nombre": "Azucares",
+                "cantidad": 1
+            },
+            {
+                "id": 7,
+                "nombre": "Carnes",
+                "cantidad": 5
+            }]
+    }],
+    "lastIDP":0,
+    "planElegido":[{
+        "id": 3,
+        "esPersonal": false,
+        "nombre": "Balanceado", 
+        "descripcion": "Dieta balanceada", 
+        "porciones": [{
+                "id": 0,
+                "nombre": "Verduras",
+                "cantidad": 3
+            },
+            {
+                "id": 1,
+                "nombre": "Cereales",
+                "cantidad": 3
+            },
+            {
+                "id": 2,
+                "nombre": "Leguminosas",
+                "cantidad": 3
+            },
+            {
+                "id": 3,
+                "nombre": "Lacteos",
+                "cantidad": 3
+            },
+            {
+                "id": 4,
+                "nombre": "Grasas",
+                "cantidad": 3
+            },
+            {
+                "id": 5,
+                "nombre": "Frutas",
+                "cantidad": 3
+            },
+            {
+                "id": 6,
+                "nombre": "Azucares",
+                "cantidad": 3
+            },
+            {
+                "id": 7,
+                "nombre": "Carnes",
+                "cantidad": 3
+            }]
+    }]
+},
+{
+    "id":1,
+    "username": "admin",
+    "edad": 22,
+    "password": "admin",
+    "isAdmin": true,
+    "nombre": "Eduardo",
+    "apellido": "Ok",
+    "pesoEnKG":45,
+    "planesPersonales": [{
+        "id": 0,
+        "esPersonal": true,
+        "nombre": "Plan Balanceado del admin", 
+        "descripcion": "Admin Choice", 
+        "porciones": [{
+                "id": 0,
+                "nombre": "Verduras",
+                "cantidad": 2
+            },
+            {
+                "id": 1,
+                "nombre": "Cereales",
+                "cantidad": 1
+            },
+            {
+                "id": 2,
+                "nombre": "Leguminosas",
+                "cantidad": 2
+            },
+            {
+                "id": 3,
+                "nombre": "Lacteos",
+                "cantidad": 6
+            },
+            {
+                "id": 4,
+                "nombre": "Grasas",
+                "cantidad": 7
+            },
+            {
+                "id": 5,
+                "nombre": "Frutas",
+                "cantidad": 2
+            },
+            {
+                "id": 6,
+                "nombre": "Azucares",
+                "cantidad": 5
+            },
+            {
+                "id": 7,
+                "nombre": "Carnes",
+                "cantidad": 9
+            }]
+    }],
+    "lastIDP":0,
+    "planElegido":[{}]
+    }]
